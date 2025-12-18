@@ -14,7 +14,7 @@ export function Footer() {
               <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary pixel-border">
                 <span className="font-mono text-lg font-bold text-primary-foreground">A</span>
               </div>
-              <span className="text-xl font-bold">Melsony</span>
+              <span className="text-xl font-bold">Arabdevs</span>
             </div>
             <p className="text-sm text-muted-foreground leading-relaxed mb-4">{t.aboutP1.substring(0, 100)}...</p>
             <div className="flex gap-3">
@@ -85,6 +85,11 @@ export function Footer() {
               <li>
                 <Link href="/terms" className="text-muted-foreground transition-colors hover:text-foreground">
                   {t.terms}
+                </Link>
+              </li>
+              <li>
+                <Link href="/refund" className="text-muted-foreground transition-colors hover:text-foreground">
+                  {t.refund}
                 </Link>
               </li>
             </ul>
