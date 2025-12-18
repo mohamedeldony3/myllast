@@ -8,6 +8,7 @@ export const translations = {
     contact: "اتصل بنا",
     privacy: "الخصوصية",
     terms: "الشروط",
+    refund: "الاسترجاع",
     getStarted: "ابدأ الآن",
 
     // Hero Section
@@ -102,6 +103,7 @@ export const translations = {
     contact: "Contact",
     privacy: "Privacy",
     terms: "Terms",
+    refund: "Refund",
     getStarted: "Get Started",
 
     // Hero Section
@@ -196,6 +198,7 @@ export const translations = {
     contact: "Контакты",
     privacy: "Конфиденциальность",
     terms: "Условия",
+    refund: "Возврат",
     getStarted: "Начать",
 
     // Hero Section
