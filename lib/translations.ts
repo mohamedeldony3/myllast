@@ -8,7 +8,7 @@ export const translations = {
     contact: "اتصل بنا",
     privacy: "الخصوصية",
     terms: "الشروط",
-    refund: "الاسترجاع",
+    refund: "سياسه الاسترجاع",
     getStarted: "ابدأ الآن",
 
     // Hero Section
